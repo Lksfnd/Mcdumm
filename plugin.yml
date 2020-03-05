@@ -1,0 +1,13 @@
+name: Chromosomia
+main: me.lksfnd.Chromosomia.main
+version: 51.51
+api-version: 1.13
+commands:
+  chromosomes:
+    description: Zeigt die Chromosome an
+    aliases: [c, chromo]
+    usage: /chromosomes
+  clearchat:
+    description: Was wirds wohl macha...
+    aliases: [cc]
+    usage: /clearchat
